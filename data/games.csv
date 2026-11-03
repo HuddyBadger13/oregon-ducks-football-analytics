@@ -1,0 +1,30 @@
+game_id,season,game_date,opponent,location,oregon_score,opponent_score,result,margin
+1,2024,Aug 31 (Sat),Idaho,Home,24,14,W,10
+2,2024,Sep 7 (Sat),Boise State,Home,37,34,W,3
+3,2024,Sep 14 (Sat),Oregon State,Away,49,14,W,35
+4,2024,Sep 28 (Sat),UCLA,Away,34,13,W,21
+5,2024,Oct 4 (Fri),Michigan State,Home,31,10,W,21
+6,2024,Oct 12 (Sat),#2 Ohio State,Home,32,31,W,1
+7,2024,Oct 18 (Fri),Purdue,Away,35,0,W,35
+8,2024,Oct 26 (Sat),#20 Illinois,Home,38,9,W,29
+9,2024,Nov 2 (Sat),Michigan,Away,38,17,W,21
+10,2024,Nov 9 (Sat),Maryland,Home,39,18,W,21
+11,2024,Nov 16 (Sat),Wisconsin,Away,16,13,W,3
+12,2024,Nov 30 (Sat),Washington,Home,49,21,W,28
+13,2024,Dec 7 (Sat),#3 Penn State,Neutral,45,37,W,8
+14,2024,Jan 1 (Wed),#8 Ohio State,Neutral,21,41,L,-20
+15,2025,Aug 30 (Sat),Montana State,Home,59,13,W,46
+16,2025,Sep 6 (Sat),Oklahoma State,Home,69,3,W,66
+17,2025,Sep 13 (Sat),Northwestern,Away,34,14,W,20
+18,2025,Sep 20 (Sat),Oregon State,Home,41,7,W,34
+19,2025,Sep 27 (Sat),#3 Penn State,Away,30,24,W,6
+20,2025,Oct 11 (Sat),#7 Indiana,Home,20,30,L,-10
+21,2025,Oct 18 (Sat),Rutgers,Away,56,10,W,46
+22,2025,Oct 25 (Sat),Wisconsin,Home,21,7,W,14
+23,2025,Nov 8 (Sat),#20 Iowa,Away,18,16,W,2
+24,2025,Nov 14 (Fri),Minnesota,Home,42,13,W,29
+25,2025,Nov 22 (Sat),USC,Home,42,27,W,15
+26,2025,Nov 29 (Sat),Washington,Away,26,14,W,12
+27,2025,Dec 20 (Sat),#24 James Madison,Home,51,34,W,17
+28,2025,Jan 1 (Thu),#4 Texas Tech,Neutral,23,0,W,23
+29,2025,Jan 9 (Fri),#1 Indiana,Neutral,22,56,L,-34
